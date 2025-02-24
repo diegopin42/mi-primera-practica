@@ -1,0 +1,15 @@
+com\diegopincay\carro\IGU\Principal$1.class
+com\diegopincay\carro\Persistencia\exceptions\PreexistingEntityException.class
+com\diegopincay\carro\Logica\AutoMovil.class
+com\diegopincay\carro\Persistencia\exceptions\IllegalOrphanException.class
+com\diegopincay\carro\Logica\AutoMovil_.class
+com\diegopincay\carro\Logica\Controladora.class
+com\diegopincay\carro\Persistencia\exceptions\NonexistentEntityException.class
+com\diegopincay\carro\Persistencia\AutoMovilJpaController.class
+com\diegopincay\carro\IGU\AltaCarros$2.class
+com\diegopincay\carro\IGU\Principal$2.class
+com\diegopincay\carro\IGU\Principal.class
+com\diegopincay\carro\Persistencia\controladoraPersistencia.class
+com\diegopincay\carro\IGU\AltaCarros$1.class
+com\diegopincay\carro\Carro.class
+com\diegopincay\carro\IGU\AltaCarros.class
